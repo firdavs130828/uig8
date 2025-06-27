@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+
+}
+
+
+
+select{
+    background-color: #BFAFF2;
+    
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+}
+select option{
+
+font-weight: 600;
+font-size: 10px;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+
+}
+
+.btn{
+    width: 175px;
+height: 50px;
+border-radius: 15px;
+background: #BFAFF2;
+border-radius: 10px;
+
+}
+ h3{
+    color: white;
+    
+}
+header .container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: black;
+}
+.f{
+    color: white;
+}
+.rew{
+    display: flex;
+    gap: 30px;
+
+}
+.box{
+    display: flex;
+    gap: 40px;
+}
+.rew h3{
+    margin-top: 13px;
+}
+.card{
+    width: 325px;
+height: 240px;
+border-radius: 32px;
+padding: 9px 20px;
+background: gray;
+color: white;
+text-align: center;
+margin-top: 300px;
+
+}
+
+body{
+    background-color: #232028;
+}
+main{
+    padding: 350px 0 50px 0;
+    background-color: black;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.card img{
+    margin-top: -300px;
+}
+nav ul{
+    list-style: none;
+    align-items: center;
+justify-content: space-between;
+display: flex;
+gap: 40px;
+}
+nav ul li a{
+   text-decoration: none; 
+   color: white;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+color: white;
+margin-left: 1200px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box{
+    color: white;
+    ;
+}
